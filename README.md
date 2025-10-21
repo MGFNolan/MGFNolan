@@ -74,6 +74,7 @@ The following is tech or tools I have worked with, whether it is on an exposure 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 
 ### AI
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
@@ -85,7 +86,6 @@ The following is tech or tools I have worked with, whether it is on an exposure 
 ![](https://github-readme-stats.vercel.app/api?username=MGFNolan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=MGFNolan&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGFNolan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 
 ---
 
