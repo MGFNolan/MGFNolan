@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🧠 About Me
-Creative at heart, logical in mind. I'm a software developer on the junior side of experience, who loves turning ideas into tangible software. My background spans a History & Creative Writing degree, seven years in sports data, and now crafting accessible web experiences. For me, coding is like being a child in a sweet shop - there's always something new and shiny to learn, build, or tinker with!
+Creative at heart, logical in mind. I'm a software developer on the junior side of experience, who loves turning ideas into tangible software. My background includes a History & Creative Writing degree, seven years in sports data, and now crafting accessible web experiences. For me, coding is like being a child in a sweet shop - there's always something new and shiny to learn, build, or tinker with!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-g-f-nolan/) 
@@ -90,11 +90,11 @@ The following is tech or tools I have worked with, whether it is on an exposure 
 ---
 
 ## 🚀 Current Adventures
-- Seeking my next role
+- Junior Dev at SmartSearch!
 - Building my portfolio with full CI/CD pipeline (project board & current draft are public!)
 - Finalising the Hebden Bridge Chess Club website (currently at MVP stage)
-- Strengthening my React and JavaScript skills
-- Planning a snooker score tracking web app (once I'm settled in a role)
+- Strengthening my React, JavaScript, PHP, and vue.js skills
+- Planning a snooker score tracking web app (once I'm settled in my role)
 
 ## 🎯 What Gets Me Excited
 - Seeing work I have contributed to in the real world, being used by real people
@@ -103,13 +103,13 @@ The following is tech or tools I have worked with, whether it is on an exposure 
 - The endless learning opportunities in tech
 
 ## 🎭 Beyond the Code
-- **Chess enthusiast:** 1700 rating on Lichess (Rapid), regular at Hebden Bridge Chess Club  
+- **Chess enthusiast:** ~1750 rating on Lichess (Rapid), regular at Hebden Bridge Chess Club  
 - **Former sports data professional:** Seven years of project management, stakeholder collaboration, and two years of being a line manager
 - **Accessibility advocate:** Passionate about building inclusive digital experiences
 - **Poetry writer:** Very much an amateur, but it is cathartic and creative
 
 ## 📫 Let's Connect
-Always up for a chat about frontend development, accessibility, chess, or the latest tech trends. Currently available for new opportunities.
+Always up for a chat about frontend development, accessibility, chess, or the latest tech trends.
 
 ---
 *"When coding, you need to remember that you're collaborating not just with your colleagues, but also with everyone else who will work on the project after you."*
